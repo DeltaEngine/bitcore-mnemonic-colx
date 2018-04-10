@@ -37,7 +37,7 @@
     "mocha": "^2.2.5"
   },
   "dependencies": {
-    "bitcore-lib-colx": "^0.13.20",
+    "bitcore-lib-colx": "github:deltaengine/bitcore-lib-colx",
     "unorm": "^1.3.3"
   }
 }
